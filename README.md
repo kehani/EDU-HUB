@@ -5,6 +5,7 @@
         <script scr="https://kit.fontawesome.com/4a2b05560.js"
     crossorigin="anonymous"></script>
     <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
     </head>
     <body>
     <header>
